@@ -8,6 +8,7 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
+.vs/
 
 # Package cache
 Packages/com.unity.*/*
